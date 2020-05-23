@@ -1,0 +1,11 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "lib": [
+      "ESNext",
+      "ES2020",
+      "DOM"
+    ],
+    "module": "CommonJS"
+  },
+}
