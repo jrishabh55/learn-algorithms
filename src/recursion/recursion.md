@@ -8,7 +8,7 @@
         - Using 2 Prove F(K+1) is true
 
 
-## Solved Practice Questions (solved)
+## Solved Practice Questions
     1. Factorial
     2. Count digits
     3. Find fibonacci number
