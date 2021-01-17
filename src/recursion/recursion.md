@@ -27,3 +27,5 @@
     6. Find first and last index of an element in an array
     7. Print / store all positions of an element in an array
     8. Count number of appearance of an element in an array
+    9. Merge Sort
+    10. Quick Sort
